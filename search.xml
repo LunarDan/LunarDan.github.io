@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/11/30/hello-world/"/>
+      <url>/2025/11/30/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Helloworld!<br>这是我使用搭建博客后的第一篇文章。</p><h2 id="为什么写博客"><a href="#为什么写博客" class="headerlink" title="为什么写博客"></a>为什么写博客</h2><p>记录学习、分享想法…</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>期待未来的更多内容！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
